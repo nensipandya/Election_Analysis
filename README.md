@@ -28,16 +28,20 @@ The analysis of the election shows that:
 
  - There were 368,711 votes cast in the election.
  - The candidates were:
-   1. Charles Casper Stockham
-   2. Diana DeGette
-   3. Raymon Anthony Doane
+   1. **Charles Casper Stockham**
+   2. **Diana DeGette**
+   3. **Raymon Anthony Doane**
   - The candidate results were:
-   1. Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes.
-   2. Diana DeGette received 73.8% of the votes and 272,892 number of votes.
-   3. Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes.
-
-
-
-
+   1. **Charles Casper Stockham** received **23.0%** of the vote and **85,213** number of votes.
+   2. **Diana DeGette** received **73.8%** of the vote and **272,892** number of votes.
+   3. **Raymon Anthony Doane** received **3.1%** of the vote and **11,606** number of votes.
+  - The county votes were:
+   1. Jefferson county received 10.5% of the vote and 38,855 number of votes.
+   2. Denver county received 82.8% of the vote and 306,055 number of votes.
+   3. Arapahoe county received 6.7% of the vote and 24,801 number of votes
+  -  The highest numbers of votes had been received by the **Denver** county.
+  -  The winner of the election was **Diana DeGette** , who received **73.8%** og the vote and **272,892** number of votes.
+  
+  
 
 
