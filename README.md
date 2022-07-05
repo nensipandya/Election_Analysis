@@ -43,5 +43,16 @@ The analysis of the election shows that:
   -  The winner of the election was **Diana DeGette** , who received **73.8%** og the vote and **272,892** number of votes.
   
   
+  
+  
+<img width="239" alt="Election_Results" src="https://user-images.githubusercontent.com/107137215/177399237-75d09194-96d6-4a1c-8bea-4cb528b8ec34.png">
 
 
+## Election - Audit Summary
+Elaborating the Election Audit by county turnout has been a great way to take advantage of the python scripts. This added insight can be very helful for the future election performance , where we are able to to find out demographoce turnout for each an individual candidate.
+
+A minor modification in the scripts can reveal critical data. For example, we can dive- in deeper in the analysis and able to determine what percentage of each county voted for each candidate just by addinf -if statement to the code.
+
+Similarly, we can use the same code for the Federal Election and instead of couty, we are able to to find out percentage of vote for each states.
+
+In short, whether it is a state / federal election, county or candidiate vote percentage, the python code  is very useful and valuable resources for the Election Board.
